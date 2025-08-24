@@ -51,7 +51,7 @@
     "yarn": ">= 1.9"
   },
   "dependencies": {
-    "@azure/storage-blob": "^12.13.0",
+    "@azure/storage-blob": "^12.28.0",
     "@babel/core": "^7.23.5",
     "@babel/plugin-transform-modules-commonjs": "^7.23.3",
     "@primer/octicons": "^19.0.0",
