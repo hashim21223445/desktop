@@ -92,7 +92,7 @@
     "parallel-webpack": "^2.3.0",
     "prettier": "^2.6.0",
     "rimraf": "^2.5.2",
-    "sass": "^1.27.0",
+    "sass": "^1.93.0",
     "sass-loader": "^10.0.3",
     "semver": "^5.7.2",
     "split2": "^3.2.2",
